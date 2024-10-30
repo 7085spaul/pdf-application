@@ -54,7 +54,7 @@ This full-stack application allows users to upload PDF documents and ask questio
 ## Backend Setup
 ### 1. Clone the repository:
 
-	git clone (https://github.com/suryatech05/PDF-Q-A-Application)
+	git clone (https://github.com/7085spaul/pdf-application)
 	cd PDF-Q-A-Application
 ### 2. Set up the virtual environment:
 
